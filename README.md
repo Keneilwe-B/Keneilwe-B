@@ -4,8 +4,15 @@
 **Keneilwe-B/Keneilwe-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 🔭 I’m am a BSC Student majoring in Computer Science and Information Systems at Rhodes Univrsity  ...
-- 🌱 I’m currently learning Java and Python...
+- 🔭 I’m am a BSC Student majoring in Computer Science and Information Systems at Rhodes University  ...
+- 🌱 My skills:
+               Python
+               Java
+               HTML
+               CSS
+               MIPS 
+               SQL 
+               C 
 - 👯 I have a collaborated with my class mates we were working on a game development project🤖...
 
 - 📫 How to reach me: keneilweb59@gmail.com...
