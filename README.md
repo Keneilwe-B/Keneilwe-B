@@ -12,7 +12,8 @@
                CSS
                MIPS 
                SQL 
-               C 
+               C
+              Advanced Excel
 - 👯 I have a collaborated with my class mates we were working on a game development project🤖...
 
 - 📫 How to reach me: keneilweb59@gmail.com...
